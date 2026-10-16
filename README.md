@@ -22,3 +22,5 @@ Follow these steps to set up the project locally:
 
   code .    //to start the project in VS Code
 
+  Deployment link- https://sensational-squirrel-35353c.netlify.app/marketplace
+
